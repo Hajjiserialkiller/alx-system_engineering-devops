@@ -1,0 +1,1 @@
+this repo contains 0x00_shell,basics tasks and done
